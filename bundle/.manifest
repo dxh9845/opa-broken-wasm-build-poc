@@ -1,0 +1,7 @@
+{
+    "roots": [
+        "main",
+        "meta",
+        "some_data"
+    ]
+}

@@ -10,8 +10,6 @@ foo[bar] := bar if {
 	bar := { "abc": "123" }
 }
 
-# METADATA
-# entrypoint: true
 foo[bar] := bar if {
 	input.foo == "baz"
 	bar := { "def": "456" }
